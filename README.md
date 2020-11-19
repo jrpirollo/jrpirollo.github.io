@@ -1,6 +1,6 @@
-# PROJETO DE EXTENSÃO - UTFPR 
+# PROJETO DE EXTENSÃO - DAEST/UTFPR 
 
-Análise de Séries Temporais com R
+# Análise de Séries Temporais com R
 
 ## Publico Alvo
 
