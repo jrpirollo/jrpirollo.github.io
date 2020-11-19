@@ -1,3 +1,31 @@
+---
+title: "Portal Halley de Educação Atuarial"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160184561-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-160184561-1');
+</script>
+
+<p></p>
+<p></p>
+
+
+<br></br>
+
+
 # PROJETO DE EXTENSÃO - DAEST/UTFPR 
 
 # Análise de Séries Temporais com R
